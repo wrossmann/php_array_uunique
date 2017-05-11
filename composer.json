@@ -1,0 +1,15 @@
+{
+    "name": "wrossmann/array_uunique",
+    "authors": [
+        {
+            "name": "Wade Rossmann",
+            "email": "wrossmann@gmail.com"
+        }
+    ],
+    "autoload": {
+		"files": [ "array_uunique.php" ]
+	},
+	"require": {
+		"php": ">=5.4.0"
+	}
+}
